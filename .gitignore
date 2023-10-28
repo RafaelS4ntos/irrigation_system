@@ -1,0 +1,24 @@
+ Arquivos e pastas do Visual Studio Code
+.vscode/
+.settings.json
+
+# Arquivos compilados do Java
+*.class
+
+# Arquivos de build
+bin/
+target/
+out/
+
+# Logs e saída de console
+log/
+logs/
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Arquivos de backup
+*~
+
